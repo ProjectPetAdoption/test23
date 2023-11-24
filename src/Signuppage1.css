@@ -1,5 +1,3 @@
-
-
 .container123-wrapper {
     display: flex;
   flex-direction: column;
@@ -159,4 +157,8 @@
   
   .budesign:hover {
     background-color: black;
+  }
+
+  .white{
+	color: white;
   }
