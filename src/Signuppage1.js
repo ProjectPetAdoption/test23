@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Signuppage1.css'; // Import your CSS file
 import Nav from './nav';
 import Footer from './footer';
@@ -35,12 +36,17 @@ const Signuppage1 = () => {
                   <a href="#" className="social123"><i className="fab fa fa-twitter fa-2x"></i></a>
                 </div>
                 <span>or use your account</span>
+                
                 <input type="email" id="email" placeholder="Email" className="email-input" />
                 <input type="password" id="password" placeholder="Password" className="email-input" />
+                <div className="signup-link">
+              <p><span className='white'>cfnjmfjvmjfjvmjkfmvf</span> New user?<Link to="/Signup02">Sign Up</Link></p>
+            </div>
                 <br />
                 <br />
                 <button type="submit" className='budesign'>Log In</button>
               </form>
+             
             </div>
             <div className="overlay-container123">
               <div className="overlay123" id="popup">
