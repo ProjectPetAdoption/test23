@@ -16,6 +16,7 @@ import Stay from './Stay';
 import Petshelterform from './Petshelterform';
 import Stayformm from './Stayform';
 import Signuppage1 from './Signuppage1';
+import Signup02 from './Signup02';
 
 ReactDOM.render(
   <Router>
@@ -31,6 +32,7 @@ ReactDOM.render(
       <Route path="/Petshelterform" element={<Petshelterform/>} />
       <Route path="/Stayform" element={<Stayformm/>} />
       <Route path="/Signuppage1" element={<Signuppage1/>} />
+      <Route path="/Signup02" element={<Signup02/>} />
       <Route path="/Adoption" element={<Adopt />} />
       
       <Route path="/" element={<App />} />
