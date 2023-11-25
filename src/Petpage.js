@@ -41,7 +41,7 @@ const Petpage = () => {
         <br />
         <br />
         <p className="text3">
-          Max is a charismatic ball of fur, his coat a mosaic of rich browns and whites that shimmer in the sunlight. His eyes, deep and soulful, mirror the boundless energy and unwavering loyalty he brings to every moment. Whether chasing after a favorite toy or curling up for a cozy nap, Max is the epitome of joy and companionship. His friendly demeanor and playful antics make every day brighter, turning ordinary moments into cherished memories. Max isn't just a pet; he's a beloved member of the family, adding warmth and love to each passing day.
+          Description Description Description DesriptionnDescription Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description (Your long description here)
         </p>
         <br />
         <br />
@@ -49,17 +49,15 @@ const Petpage = () => {
         <br />
         <br />
         {/* Additional details for the dog */}
-    <p className="text2"><b>Pet type-</b>Dog</p>
-        <p className="text2"><b>Age -</b> 6 months</p>
-        <p className="text2"><b>Gender -</b>  Female</p>
-        <p className="text2"><b>Breed -</b>French bulldog</p>
-        <p className="text2"><b>Behaviour -</b> playful</p>
-        <p className="text2"><b>Any Disease -</b> no</p>
-        <p className="text2"><b>Weight (in kgs) -</b> 8 kgs/p>
-        <p className="text2"><b>Contact -</b>1234567890</p>
-        <p className="text2"><b>Email -</b>doggo123@gmail.com</p>
-    <p className="text2"><b>Location -</b>Delhi</p>
-        <p className="text2"><b>Vaccination -</b> Doe</p>
+        <p className="text2"><b>Age -</b> xyz</p>
+        <p className="text2"><b>Gender -</b> xyz</p>
+        <p className="text2"><b>Breed -</b> xyz</p>
+        <p className="text2"><b>Behaviour -</b> xyz</p>
+        <p className="text2"><b>Any Disease -</b> xyz</p>
+        <p className="text2"><b>Weight (in kgs) -</b> xyz</p>
+        <p className="text2"><b>Contact -</b> xyz</p>
+        <p className="text2"><b>Email -</b> xyz</p>
+        <p className="text2"><b>Vaccination -</b> xyz</p>
         <br />
         <br />
         <Link to="/Adoptform">
