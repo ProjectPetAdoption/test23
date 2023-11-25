@@ -145,6 +145,8 @@ div.container91{
 }
 div.container90{
     width: 790px;
+    height:720px;
+
     margin-left: 25px;
     margin-bottom: 25px;
     border-radius: 6px;
@@ -153,9 +155,9 @@ div.container90{
     flex-direction: row;
     flex-basis: 20%;
     justify-content: space-between;
-    
-   
-   
+    display: flex;
+    flex-wrap: wrap;
+
   
 }
 
@@ -331,4 +333,9 @@ div.sec2b{
     
   }
 
+ .cards {
+  flex: 0 0 calc(23% - 10px); /* Adjusted width */
+  margin: 5px;
+  /* Other styles */
+}
  
