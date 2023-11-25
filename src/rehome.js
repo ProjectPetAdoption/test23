@@ -82,11 +82,7 @@ function Rehome() {
   <label htmlFor="describe"  className="customLabel22">Describe Your Pet:</label>
   <textarea name="describe" id="describe" cols="20" rows="10"></textarea>
 
-  <label htmlFor="photos"  className="customLabel22">Upload photos of your Pet</label>
-  <input type="file" className="photosform" id="myFile1" name="filename" />
-  <input type="file" className="photosform" id="myFile2" name="filename" />
-  <input type="file" className="photosform" id="myFile3" name="filename" />
-  <input type="file" className="photosform" id="myFile4" name="filename" />
+ 
 
             <button type="submit" className="submitform">
               Submit
