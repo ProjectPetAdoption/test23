@@ -380,6 +380,58 @@ const Adopt = () => {
             </div>
           </div>
         </div>
+        <div className="cards" onClick={handleCardClick}>
+          <div className="sec1">
+            <img src="French-bulldog.jpg" alt="" />
+          </div>
+          <div className="sec2">
+            <div className="Name"><b>Name</b></div>
+            <div className="sec2a">
+              <div className="Breed">Breed</div>
+              <div className="Gender">Gender</div>
+              <div className="Age">Age</div>
+            </div>
+            <div className="sec2b">
+              <div className="Weight">Weight</div>
+              <div className="Location">Location</div>
+            </div>
+          </div>
+        </div>
+        <div className="cards" onClick={handleCardClick}>
+          <div className="sec1">
+            <img src="French-bulldog.jpg" alt="" />
+          </div>
+          <div className="sec2">
+            <div className="Name"><b>Name</b></div>
+            <div className="sec2a">
+              <div className="Breed">Breed</div>
+              <div className="Gender">Gender</div>
+              <div className="Age">Age</div>
+            </div>
+            <div className="sec2b">
+              <div className="Weight">Weight</div>
+              <div className="Location">Location</div>
+            </div>
+          </div>
+        </div>
+        <div className="cards" onClick={handleCardClick}>
+          <div className="sec1">
+            <img src="dogpetsample.jpeg" alt="" />
+          </div>
+          <div className="sec2">
+            <div className="Name"><b>Name</b></div>
+            <div className="sec2a">
+              <div className="Breed">Breed</div>
+              <div className="Gender">Gender</div>
+              <div className="Age">Age</div>
+            </div>
+            <div className="sec2b">
+              <div className="Weight">Weight</div>
+              <div className="Location">Location</div>
+            </div>
+          </div>
+        </div>
+        
       </div>
     </div>
     </div>
