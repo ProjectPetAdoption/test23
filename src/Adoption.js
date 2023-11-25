@@ -351,15 +351,15 @@ const Adopt = () => {
             <img src="catpetsample.jpg" alt="" />
           </div>
           <div className="sec2">
-            <div className="Name"><b>Name</b></div>
+            <div className="Name"><b>Max</b></div>
             <div className="sec2a">
-              <div className="Breed">Breed</div>
-              <div className="Gender">Gender</div>
+              <div className="Breed">French Bulldog</div>
+              <div className="Gender">Male</div>
               <div className="Age">Age</div>
             </div>
             <div className="sec2b">
-              <div className="Weight">Weight</div>
-              <div className="Location">Location</div>
+              <div className="Weight">8 kgs </div>
+              <div className="Location">Delhi</div>
             </div>
           </div>
         </div>
