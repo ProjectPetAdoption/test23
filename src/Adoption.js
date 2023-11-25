@@ -334,15 +334,15 @@ const Adopt = () => {
             <img src="dogpetsample.jpeg" alt="" />
           </div>
           <div className="sec2">
-            <div className="Name"><b>Name</b></div>
+            <div className="Name"><b>Max</b></div>
             <div className="sec2a">
-              <div className="Breed">Breed</div>
-              <div className="Gender">Gender</div>
-              <div className="Age">Age</div>
+              <div className="Breed">French Bulldog</div>
+              <div className="Gender">Male</div>
+
             </div>
             <div className="sec2b">
-              <div className="Weight">Weight</div>
-              <div className="Location">Location</div>
+              <div className="Weight">8 kgs</div>
+              <div className="Location">Delhi</div>
             </div>
           </div>
         </div>
@@ -351,86 +351,37 @@ const Adopt = () => {
             <img src="catpetsample.jpg" alt="" />
           </div>
           <div className="sec2">
-            <div className="Name"><b>Max</b></div>
+            <div className="Name"><b>Sam</b></div>
             <div className="sec2a">
-              <div className="Breed">French Bulldog</div>
+              <div className="Breed">British Shorthair</div>
+              <div className="Gender">Female</div>
+             
+            </div>
+            <div className="sec2b">
+              <div className="Weight">6 kgs </div>
+              <div className="Location">Pune</div>
+            </div>
+          </div>
+        </div>
+        <div className="cards" onClick={handleCardClick}>
+          <div className="sec1">
+            <img src="French-bulldog.jpg" alt="" />
+          </div>
+          <div className="sec2">
+            <div className="Name"><b>Bruno</b></div>
+            <div className="sec2a">
+              <div className="Breed">German Shepherd</div>
               <div className="Gender">Male</div>
-              <div className="Age">Age</div>
+              
             </div>
             <div className="sec2b">
-              <div className="Weight">8 kgs </div>
-              <div className="Location">Delhi</div>
+              <div className="Weight">11kgs</div>
+              <div className="Location">Banglore</div>
             </div>
           </div>
         </div>
-        <div className="cards" onClick={handleCardClick}>
-          <div className="sec1">
-            <img src="French-bulldog.jpg" alt="" />
-          </div>
-          <div className="sec2">
-            <div className="Name"><b>Name</b></div>
-            <div className="sec2a">
-              <div className="Breed">Breed</div>
-              <div className="Gender">Gender</div>
-              <div className="Age">Age</div>
-            </div>
-            <div className="sec2b">
-              <div className="Weight">Weight</div>
-              <div className="Location">Location</div>
-            </div>
-          </div>
-        </div>
-        <div className="cards" onClick={handleCardClick}>
-          <div className="sec1">
-            <img src="French-bulldog.jpg" alt="" />
-          </div>
-          <div className="sec2">
-            <div className="Name"><b>Name</b></div>
-            <div className="sec2a">
-              <div className="Breed">Breed</div>
-              <div className="Gender">Gender</div>
-              <div className="Age">Age</div>
-            </div>
-            <div className="sec2b">
-              <div className="Weight">Weight</div>
-              <div className="Location">Location</div>
-            </div>
-          </div>
-        </div>
-        <div className="cards" onClick={handleCardClick}>
-          <div className="sec1">
-            <img src="French-bulldog.jpg" alt="" />
-          </div>
-          <div className="sec2">
-            <div className="Name"><b>Name</b></div>
-            <div className="sec2a">
-              <div className="Breed">Breed</div>
-              <div className="Gender">Gender</div>
-              <div className="Age">Age</div>
-            </div>
-            <div className="sec2b">
-              <div className="Weight">Weight</div>
-              <div className="Location">Location</div>
-            </div>
-          </div>
-        </div>
-        <div className="cards" onClick={handleCardClick}>
-          <div className="sec1">
-            <img src="dogpetsample.jpeg" alt="" />
-          </div>
-          <div className="sec2">
-            <div className="Name"><b>Name</b></div>
-            <div className="sec2a">
-              <div className="Breed">Breed</div>
-              <div className="Gender">Gender</div>
-              <div className="Age">Age</div>
-            </div>
-            <div className="sec2b">
-              <div className="Weight">Weight</div>
-              <div className="Location">Location</div>
-            </div>
-          </div>
-        </div>
+      
+        
         
       </div>
     </div>
