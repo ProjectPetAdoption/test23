@@ -49,15 +49,15 @@ const Petpage = () => {
         <br />
         <br />
         {/* Additional details for the dog */}
-        <p className="text2"><b>11 yrs -</b> xyz</p>
-        <p className="text2"><b>male -</b> xyz</p>
-        <p className="text2"><b>Bulldog -</b> xyz</p>
-        <p className="text2"><b>Playful-</b> xyz</p>
-        <p className="text2"><b>no -</b> xyz</p>
-        <p className="text2"><b>8 kgs -</b> xyz</p>
-        <p className="text2"><b>1234 -</b> xyz</p>
-        <p className="text2"><b>123@gmail.com -</b> xyz</p>
-        <p className="text2"><b>435 -</b> xyz</p>
+        <p className="text2"><b>Age -</b> 11</p>
+        <p className="text2"><b>Gender -</b> female</p>
+        <p className="text2"><b>Breed -</b>bulldog</p>
+        <p className="text2"><b>Behaviour -</b> playful</p>
+        <p className="text2"><b>Any Disease -</b>noz</p>
+        <p className="text2"><b>Weight (in kgs) -</b> 7kgs</p>
+        <p className="text2"><b>Contact -</b> 12345</p>
+        <p className="text2"><b>Email -</b> xyz@gmail.com</p>
+        <p className="text2"><b>Vaccination -</b> no</p>
         <br />
         <br />
         <Link to="/Adoptform">
